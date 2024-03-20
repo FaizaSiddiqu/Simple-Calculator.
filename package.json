@@ -4,13 +4,14 @@
   "description": "A simple calculator with typrscript, Node.js and inqueirer",
   "main": "index.js",
   "type": "module",
-  "bin":"index.js",
+  "bin": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Faiza Siddiqui",
   "license": "MIT",
   "dependencies": {
+    "fsf-simple-calculator": "^2.1.1",
     "inquirer": "^9.2.16"
   },
   "devDependencies": {
