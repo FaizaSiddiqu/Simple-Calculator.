@@ -12,9 +12,6 @@ const answer = await inquirer.prompt([
             "Subtraction",
             "Multiplication",
             "Division",
-            "Exponentiation",
-            "modulus",
-            "BMI calculator",
         ],
     },
 ]);
